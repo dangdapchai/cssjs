@@ -117,7 +117,7 @@ jQuery(window).load(function() {
 			jQuery(divpopup).attr('id', 'myModal');
 			jQuery(divpopup).attr('class', 'linhnguyen-modal');
 			jQuery( "body" ).append(divpopup);
-			jQuery("#myModal").html("<a href='https://goo.gl/ja7zOm' target='_blank'><img src='https://lh3.googleusercontent.com/-ck5n3z8eo_4/V_4uPCUIcRI/AAAAAAAAAlo/B2b1tvQ6OCsBFUrTghxC-Ku48DpEm85OACL0B/w506-h281/nivo2.jpg' width='500px'/><br/> yến sào cần giờ trang nhi </a>. 0913.96.4646. <h2><a class='close-linhnguyen-modal'>X</a></h2>");
+			jQuery("#myModal").html("<a href='https://goo.gl/ja7zOm' target='_blank'><img src='https://lh3.googleusercontent.com/-mQGj6gLA8OA/V_-skRcGt3I/AAAAAAAAABE/GnHMhlJqpHkqkv_PeEDyMLpRR78xHlpiwCL0B/w426-h568/39.jpg' width='500px'/><br/> yến sào cần giờ trang nhi </a>. 0913.96.4646. <h2><a class='close-linhnguyen-modal'>X</a></h2>");
 			jQuery('#myModal').linhnguyen(jQuery('#myModal').data());
 		}
 });
